@@ -1,0 +1,33 @@
+{
+  "name": "landing page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaMeissen/landing.github.io.git"
+  },
+  "author": "Daria Vyshniakova",
+  "license": "ISC",
+  "homepage": "https://github.com/DianaMeissen/landing.github.io.git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp-clean-css": "^3.10.0"
+  }
+}
